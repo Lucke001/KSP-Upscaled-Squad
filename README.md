@@ -1,6 +1,6 @@
 # KSP-Upscaled-Squad
 <img src="https://i.postimg.cc/g0kx898P/KSPUpscaled-Squad.png" alt="KSPUpscaled Squad" />
-Enhancement of Stock Squad textures folder in 3 different settings.
+Enhancement of Stock Squad textures folders in 3 different settings.
 <br>
 <br>
 
