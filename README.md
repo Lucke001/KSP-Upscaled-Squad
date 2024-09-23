@@ -1,5 +1,8 @@
 # KSP-Upscaled-Squad
+<img src="https://i.postimg.cc/g0kx898P/KSPUpscaled-Squad.png" alt="KSPUpscaled Squad" />
 Enhancement of Stock Squad textures folder in 3 different settings.
+<br>
+<br>
 
 
 <b>Process:</b>
@@ -20,7 +23,7 @@ Enhancement of Stock Squad textures folder in 3 different settings.
 (Please note that you need the base game, as the packages do not include any of the configs or models, it is only textures)
 
 - Download the setting you want;<br>
-  <a href="">High:    8192x8192 Textures</a><br>
+  <a href="https://drive.google.com/file/d/1ME4asL_Jptoj192ZB3hUJ7P0mBQ8r_3N/view?usp=sharing">High:    8192x8192 Textures</a><br>
   <a href="https://drive.google.com/file/d/1eDKZNUYjkKFYjE2K6aYdowcFHOCxYs2Y/view?usp=sharing">Medium:  4196x4196 Textures</a><br>
   <a href="https://drive.google.com/file/d/1j482O519psUhhjJECwV1cXBsGSpOBjsq/view?usp=sharing">Low:     2048x2048 Textures</a><br>
 - Extract to the GameData folder;
@@ -34,6 +37,6 @@ Be careful of what mods you are using with this package, as it is VERY demanding
 
 I recommend testing with: <a href="https://github.com/linuxgurugamer/ShowFPS">Show FPS</a> & <a href="https://github.com/linuxgurugamer/MemGraph">MemGraph</a>. You will have a good idea of the performance hit you get with the textures.
 
-Have fun and <a href="https://www.paypal.com/donate/?hosted_button_id=XL2PWASN3Q5MY">buy me a cofee</a> if you like this mod!
+Have fun and <a href="https://www.paypal.com/donate/?hosted_button_id=UXU2LPN8EKLAE">buy me a cofee</a> if you like this mod!
 
 <a href="https://github.com/Lucke001">My Github</a>
