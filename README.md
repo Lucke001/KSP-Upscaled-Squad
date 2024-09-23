@@ -21,7 +21,7 @@ Enhancement of Stock Squad textures folder in 3 different settings.
 
 - Download the setting you want;<br>
   <a href="">High:    8192x8192 Textures</a><br>
-  <a href="">Medium:  4196x4196 Textures</a><br>
+  <a href="https://drive.google.com/file/d/1eDKZNUYjkKFYjE2K6aYdowcFHOCxYs2Y/view?usp=sharing">Medium:  4196x4196 Textures</a><br>
   <a href="https://drive.google.com/file/d/1j482O519psUhhjJECwV1cXBsGSpOBjsq/view?usp=sharing">Low:     2048x2048 Textures</a><br>
 - Extract to the GameData folder;
 - Overwrite all when prompted;
