@@ -1,6 +1,6 @@
 # KSP-Upscaled-Squad
 <img src="https://i.postimg.cc/g0kx898P/KSPUpscaled-Squad.png" alt="KSPUpscaled Squad" />
-Enhancement of Stock Squad textures folders in 3 different settings.
+Enhancement of Stock Squad textures folders in 3 different settings.<br>
 <b><a href="https://github.com/Lucke001/KSP-Upscaled-Squad-Expansion">Please note that this mod goes in pair with KSP Upscaled - Squad Expansion</a></b>
 <br>
 <br>
